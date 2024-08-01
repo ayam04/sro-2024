@@ -936,6 +936,18 @@ form label {
   /* The countdown */
   margin-bottom: 2em;
 }
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px; /* Adjust as necessary */
+  margin: 0 auto; /* Center the container */
+}
+
+.contact-container p {
+  flex: 1;
+  margin: 0 10px; /* Add some space between the paragraphs */
+  text-align: center;
+}
 
 .simply-countdown > .simply-section {
   /* coutndown blocks */
