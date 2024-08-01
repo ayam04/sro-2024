@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F14E95;
+  background: #009af3;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #F14E95;
+  background: #009af3;
 }
 
 ::selection {
   color: #fff;
-  background: #F14E95;
+  background: #009af3;
 }
 
 .fh5co-nav {
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #F14E95;
+  color: #009af3;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -404,7 +404,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-event .event-wrap {
   border: 2px solid rgba(255, 255, 255, 0.5);
   background: rgba(255, 255, 255, 0.1);
-  padding: 30px;
+  padding: 10px;
   width: 100%;
   float: left;
   -webkit-border-radius: 4px;
@@ -787,7 +787,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color: #009af3;
   position: absolute;
   left: 0;
   top: .05em;
@@ -957,7 +957,7 @@ form label {
     transform: scale(1);
   }
   50% {
-    transform: scale(1.05);
+    transform: scale(1.03);
   }
   100% {
     transform: scale(1);
